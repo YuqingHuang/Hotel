@@ -1,0 +1,478 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		368671BEA068EE2187C76064 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 368670D157EB638369F2C4F0 /* InfoPlist.strings */; };
+		368671C7E2DE2DAC1ED13CB3 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 36867E57CA08FBDA3A78A360 /* Default@2x.png */; };
+		3686720A8E8606F6C67FAC85 /* HotelReservationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 368673B980F3F077147AD43F /* HotelReservationTests.m */; };
+		368673B6520460A312DE34CA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 368674DC720D70F603CFF034 /* CoreGraphics.framework */; };
+		3686745BFE9884C24B648F78 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 368678353EACEA2B231174E8 /* Default-568h@2x.png */; };
+		368674FFC4785D05C0C0C9FC /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 3686759E1358D6150D266864 /* Default.png */; };
+		368675C1136C02293E309CD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867017FB5F847BC5A9E772 /* Foundation.framework */; };
+		368676216BD4BBA675B32B12 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3686708A7BB22E49D5B14A5A /* UIKit.framework */; };
+		368677ED3213860BC7F75268 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 368673F5BE1058B5B1F2F877 /* InfoPlist.strings */; };
+		368678BE241DF7B6E1BFD872 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867017FB5F847BC5A9E772 /* Foundation.framework */; };
+		36867A04B0B39AF58A24A084 /* YQHotel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867D38D794A574BF635114 /* YQHotel.m */; };
+		36867A15021EC8BCCBC303BD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3686708A7BB22E49D5B14A5A /* UIKit.framework */; };
+		36867C5CF61C00C604689A41 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3686781632F90BA828E4EB8C /* main.m */; };
+		36867D26438FA851BB249E4B /* YQAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867B177B57F3131BC88C20 /* YQAppDelegate.m */; };
+		36867E2127D57D100FB6F908 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867A3C3F15170ABC6D2899 /* SenTestingKit.framework */; };
+		49E31169174A1FD40005979B /* YQHotelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E31168174A1FD40005979B /* YQHotelTest.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		36867289446CCC78A1874772 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3686750B72F8734E844FA38C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 36867CC06A22260279B9D9D0;
+			remoteInfo = HotelReservation;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		36867017FB5F847BC5A9E772 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3686708A7BB22E49D5B14A5A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		368670BCF64A17C39D3DB72A /* YQAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YQAppDelegate.h; sourceTree = "<group>"; };
+		368673015861B0B730824B2E /* HotelReservation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HotelReservation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3686734F4256FC8B0F1D5E15 /* YQHotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQHotel.h; path = HotelReservation/Models/YQHotel.h; sourceTree = SOURCE_ROOT; };
+		368673B980F3F077147AD43F /* HotelReservationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HotelReservationTests.m; sourceTree = "<group>"; };
+		368674DC720D70F603CFF034 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3686759E1358D6150D266864 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		3686781632F90BA828E4EB8C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		368678353EACEA2B231174E8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		3686790000D1A905FD323E74 /* HotelReservationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "HotelReservationTests-Info.plist"; sourceTree = "<group>"; };
+		36867A3C3F15170ABC6D2899 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		36867ABA6A50005F8E633553 /* HotelReservation-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HotelReservation-Prefix.pch"; sourceTree = "<group>"; };
+		36867B177B57F3131BC88C20 /* YQAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YQAppDelegate.m; sourceTree = "<group>"; };
+		36867BAF473CD9EEF3B31EFE /* HotelReservationTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HotelReservationTests.h; sourceTree = "<group>"; };
+		36867BCE782401C45CCE1A23 /* HotelReservation-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "HotelReservation-Info.plist"; sourceTree = "<group>"; };
+		36867C905374CE9AB61D65A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		36867D38D794A574BF635114 /* YQHotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQHotel.m; path = HotelReservation/Models/YQHotel.m; sourceTree = SOURCE_ROOT; };
+		36867DB1B4A9524E3CA23B4C /* HotelReservationTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HotelReservationTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		36867E57CA08FBDA3A78A360 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		36867F10DC67D6BA578F66BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		49E31167174A1FD40005979B /* YQHotelTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQHotelTest.h; path = Model/YQHotelTest.h; sourceTree = "<group>"; };
+		49E31168174A1FD40005979B /* YQHotelTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQHotelTest.m; path = Model/YQHotelTest.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3686717F597FDAE9F5F66D8E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				36867E2127D57D100FB6F908 /* SenTestingKit.framework in Frameworks */,
+				36867A15021EC8BCCBC303BD /* UIKit.framework in Frameworks */,
+				368675C1136C02293E309CD2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		368675A4A19618B48062E2CC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				368676216BD4BBA675B32B12 /* UIKit.framework in Frameworks */,
+				368678BE241DF7B6E1BFD872 /* Foundation.framework in Frameworks */,
+				368673B6520460A312DE34CA /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		368670FBCC361C8883F9A126 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3686790000D1A905FD323E74 /* HotelReservationTests-Info.plist */,
+				368670D157EB638369F2C4F0 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		368676501540198EB5288D19 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				368673015861B0B730824B2E /* HotelReservation.app */,
+				36867DB1B4A9524E3CA23B4C /* HotelReservationTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		368676788C48C79D6D72CD62 /* HotelReservationTests */ = {
+			isa = PBXGroup;
+			children = (
+				49E31166174A1FA70005979B /* Model */,
+				368670FBCC361C8883F9A126 /* Supporting Files */,
+				36867BAF473CD9EEF3B31EFE /* HotelReservationTests.h */,
+				368673B980F3F077147AD43F /* HotelReservationTests.m */,
+				36867D38D794A574BF635114 /* YQHotel.m */,
+				3686734F4256FC8B0F1D5E15 /* YQHotel.h */,
+			);
+			path = HotelReservationTests;
+			sourceTree = "<group>";
+		};
+		368679285D9F41962CBD7ED6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3686708A7BB22E49D5B14A5A /* UIKit.framework */,
+				36867017FB5F847BC5A9E772 /* Foundation.framework */,
+				368674DC720D70F603CFF034 /* CoreGraphics.framework */,
+				36867A3C3F15170ABC6D2899 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		368679BF9DDEBE9733F11FF2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				36867BCE782401C45CCE1A23 /* HotelReservation-Info.plist */,
+				368673F5BE1058B5B1F2F877 /* InfoPlist.strings */,
+				3686781632F90BA828E4EB8C /* main.m */,
+				36867ABA6A50005F8E633553 /* HotelReservation-Prefix.pch */,
+				3686759E1358D6150D266864 /* Default.png */,
+				36867E57CA08FBDA3A78A360 /* Default@2x.png */,
+				368678353EACEA2B231174E8 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		36867A9C97BA4536F85BD491 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		36867CBFB555460D6111E114 /* HotelReservation */ = {
+			isa = PBXGroup;
+			children = (
+				368679BF9DDEBE9733F11FF2 /* Supporting Files */,
+				368670BCF64A17C39D3DB72A /* YQAppDelegate.h */,
+				36867B177B57F3131BC88C20 /* YQAppDelegate.m */,
+				36867A9C97BA4536F85BD491 /* Models */,
+			);
+			path = HotelReservation;
+			sourceTree = "<group>";
+		};
+		36867F13B497CA4D4C6BE76E = {
+			isa = PBXGroup;
+			children = (
+				368676501540198EB5288D19 /* Products */,
+				368679285D9F41962CBD7ED6 /* Frameworks */,
+				36867CBFB555460D6111E114 /* HotelReservation */,
+				368676788C48C79D6D72CD62 /* HotelReservationTests */,
+			);
+			sourceTree = "<group>";
+		};
+		49E31166174A1FA70005979B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				49E31167174A1FD40005979B /* YQHotelTest.h */,
+				49E31168174A1FD40005979B /* YQHotelTest.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		368672D972BFC30CC7DC8BB4 /* HotelReservationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3686773357BC6E3E37911252 /* Build configuration list for PBXNativeTarget "HotelReservationTests" */;
+			buildPhases = (
+				36867A225B8E610FE89D00D3 /* Sources */,
+				3686717F597FDAE9F5F66D8E /* Frameworks */,
+				36867C8FF0C823EA976BEE3A /* Resources */,
+				3686737D0608BFBDB4F786E7 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3686799066D24C800BFAD34A /* PBXTargetDependency */,
+			);
+			name = HotelReservationTests;
+			productName = HotelReservationTests;
+			productReference = 36867DB1B4A9524E3CA23B4C /* HotelReservationTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+		36867CC06A22260279B9D9D0 /* HotelReservation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3686715B2A1461AF97A6DE07 /* Build configuration list for PBXNativeTarget "HotelReservation" */;
+			buildPhases = (
+				36867DA0F800BD04630ADBC5 /* Sources */,
+				368675A4A19618B48062E2CC /* Frameworks */,
+				368671FD28EBCA86A59455E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HotelReservation;
+			productName = HotelReservation;
+			productReference = 368673015861B0B730824B2E /* HotelReservation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3686750B72F8734E844FA38C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 36867FBDC267FF3D50336BEA /* Build configuration list for PBXProject "HotelReservation" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 36867F13B497CA4D4C6BE76E;
+			productRefGroup = 368676501540198EB5288D19 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				36867CC06A22260279B9D9D0 /* HotelReservation */,
+				368672D972BFC30CC7DC8BB4 /* HotelReservationTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		368671FD28EBCA86A59455E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				368677ED3213860BC7F75268 /* InfoPlist.strings in Resources */,
+				368674FFC4785D05C0C0C9FC /* Default.png in Resources */,
+				368671C7E2DE2DAC1ED13CB3 /* Default@2x.png in Resources */,
+				3686745BFE9884C24B648F78 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		36867C8FF0C823EA976BEE3A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				368671BEA068EE2187C76064 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3686737D0608BFBDB4F786E7 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		36867A225B8E610FE89D00D3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3686720A8E8606F6C67FAC85 /* HotelReservationTests.m in Sources */,
+				49E31169174A1FD40005979B /* YQHotelTest.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		36867DA0F800BD04630ADBC5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				36867C5CF61C00C604689A41 /* main.m in Sources */,
+				36867D26438FA851BB249E4B /* YQAppDelegate.m in Sources */,
+				36867A04B0B39AF58A24A084 /* YQHotel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3686799066D24C800BFAD34A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 36867CC06A22260279B9D9D0 /* HotelReservation */;
+			targetProxy = 36867289446CCC78A1874772 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		368670D157EB638369F2C4F0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				36867F10DC67D6BA578F66BC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		368673F5BE1058B5B1F2F877 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				36867C905374CE9AB61D65A3 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		368672F86AB93EE9CFC8F4E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/HotelReservation.app/HotelReservation";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HotelReservation/HotelReservation-Prefix.pch";
+				INFOPLIST_FILE = "HotelReservationTests/HotelReservationTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+		368673612C14340D9356B282 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HotelReservation/HotelReservation-Prefix.pch";
+				INFOPLIST_FILE = "HotelReservation/HotelReservation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		368673692077DDDF01D61671 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/HotelReservation.app/HotelReservation";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HotelReservation/HotelReservation-Prefix.pch";
+				INFOPLIST_FILE = "HotelReservationTests/HotelReservationTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		36867A0BD440E6531695857D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		36867A74AE29616617B81587 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HotelReservation/HotelReservation-Prefix.pch";
+				INFOPLIST_FILE = "HotelReservation/HotelReservation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		36867D65061E387BAEFE66BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3686715B2A1461AF97A6DE07 /* Build configuration list for PBXNativeTarget "HotelReservation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				36867A74AE29616617B81587 /* Release */,
+				368673612C14340D9356B282 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3686773357BC6E3E37911252 /* Build configuration list for PBXNativeTarget "HotelReservationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				368672F86AB93EE9CFC8F4E4 /* Release */,
+				368673692077DDDF01D61671 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		36867FBDC267FF3D50336BEA /* Build configuration list for PBXProject "HotelReservation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				36867D65061E387BAEFE66BE /* Release */,
+				36867A0BD440E6531695857D /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3686750B72F8734E844FA38C /* Project object */;
+}
