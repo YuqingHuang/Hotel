@@ -22,6 +22,8 @@
 		36867C5CF61C00C604689A41 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3686781632F90BA828E4EB8C /* main.m */; };
 		36867D26438FA851BB249E4B /* YQAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867B177B57F3131BC88C20 /* YQAppDelegate.m */; };
 		36867E2127D57D100FB6F908 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867A3C3F15170ABC6D2899 /* SenTestingKit.framework */; };
+		4910077A174B1076003D4737 /* NSDate+NSDateAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 49100779174B1076003D4737 /* NSDate+NSDateAddition.m */; };
+		4910077D174B17BC003D4737 /* NSDateAdditionTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4910077C174B17BC003D4737 /* NSDateAdditionTest.m */; };
 		49E31169174A1FD40005979B /* YQHotelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E31168174A1FD40005979B /* YQHotelTest.m */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +59,10 @@
 		36867DB1B4A9524E3CA23B4C /* HotelReservationTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HotelReservationTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		36867E57CA08FBDA3A78A360 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		36867F10DC67D6BA578F66BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		49100778174B1076003D4737 /* NSDate+NSDateAddition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+NSDateAddition.h"; sourceTree = "<group>"; };
+		49100779174B1076003D4737 /* NSDate+NSDateAddition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+NSDateAddition.m"; sourceTree = "<group>"; };
+		4910077B174B17BC003D4737 /* NSDateAdditionTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSDateAdditionTest.h; path = Model/NSDateAdditionTest.h; sourceTree = "<group>"; };
+		4910077C174B17BC003D4737 /* NSDateAdditionTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSDateAdditionTest.m; path = Model/NSDateAdditionTest.m; sourceTree = "<group>"; };
 		49E31167174A1FD40005979B /* YQHotelTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQHotelTest.h; path = Model/YQHotelTest.h; sourceTree = "<group>"; };
 		49E31168174A1FD40005979B /* YQHotelTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQHotelTest.m; path = Model/YQHotelTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -110,8 +116,6 @@
 				368670FBCC361C8883F9A126 /* Supporting Files */,
 				36867BAF473CD9EEF3B31EFE /* HotelReservationTests.h */,
 				368673B980F3F077147AD43F /* HotelReservationTests.m */,
-				36867D38D794A574BF635114 /* YQHotel.m */,
-				3686734F4256FC8B0F1D5E15 /* YQHotel.h */,
 			);
 			path = HotelReservationTests;
 			sourceTree = "<group>";
@@ -144,6 +148,10 @@
 		36867A9C97BA4536F85BD491 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				36867D38D794A574BF635114 /* YQHotel.m */,
+				3686734F4256FC8B0F1D5E15 /* YQHotel.h */,
+				49100778174B1076003D4737 /* NSDate+NSDateAddition.h */,
+				49100779174B1076003D4737 /* NSDate+NSDateAddition.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -174,6 +182,8 @@
 			children = (
 				49E31167174A1FD40005979B /* YQHotelTest.h */,
 				49E31168174A1FD40005979B /* YQHotelTest.m */,
+				4910077B174B17BC003D4737 /* NSDateAdditionTest.h */,
+				4910077C174B17BC003D4737 /* NSDateAdditionTest.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -285,6 +295,7 @@
 			files = (
 				3686720A8E8606F6C67FAC85 /* HotelReservationTests.m in Sources */,
 				49E31169174A1FD40005979B /* YQHotelTest.m in Sources */,
+				4910077D174B17BC003D4737 /* NSDateAdditionTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,6 +306,7 @@
 				36867C5CF61C00C604689A41 /* main.m in Sources */,
 				36867D26438FA851BB249E4B /* YQAppDelegate.m in Sources */,
 				36867A04B0B39AF58A24A084 /* YQHotel.m in Sources */,
+				4910077A174B1076003D4737 /* NSDate+NSDateAddition.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -6,9 +6,17 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/TCMyUsageSharedDataViewController_Pad.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369035399175" ignored="false" />
     <file path="$USER_HOME$/Documents/Telstra/ipad/TelstraMyAccountProduction/TelstraMyAccountProduction/iPad/TCMyUsageSharedDataViewController_Pad.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369035626356" ignored="false" />
-    <file path="/Dummy.txt" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369040423296" ignored="false" />
+    <file path="/Dummy.txt" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369114931093" ignored="false" />
     <file path="$USER_HOME$/Documents/Telstra/ipad/TelstraMyAccountProduction/TelstraMyAccountProduction/iPad/TCMyUsageViewController_Pad.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369040696126" ignored="false" />
     <file path="/YQHotelTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369041453831" ignored="false" />
+    <file path="/NSDate+NSDateAddition.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369115956287" ignored="false" />
+    <file path="/NSDateAdditionTest.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369104405940" ignored="false" />
+    <file path="/NSDate+NSDateAddition.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369106849380" ignored="false" />
+    <file path="/NSDateAdditionTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107108135" ignored="false" />
+    <file path="/fragment.mm" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107078979" ignored="false" />
+    <file path="/a.dummy" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107294399" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/analytics/TMA_Analytics.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369114914698" ignored="false" />
+    <file path="/TMA_Analytics.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107870942" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,17 +30,93 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_UNIVERSAL" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_6.1_1" />
   <component name="FavoritesManager">
     <favorites_list name="HotelReservation" />
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="YQHotelTest.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="6" selection-start="233" selection-end="388" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="YQHotel.h" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
           <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="4" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YQHotelTest.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSDate+NSDateAddition.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSDateAdditionTest.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.44418052">
+              <folding>
+                <element signature="e#99#129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSDateAdditionTest.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.h">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSRange.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="2" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSString.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="24" selection-start="6792" selection-end="6805" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSDate+NSDateAddition.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="5" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#102#135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,19 +124,8 @@
       <file leaf-file-name="YQHotel.m" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="13" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YQHotelTest.m" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="378" selection-end="378" vertical-scroll-proportion="0.46353322">
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -68,14 +141,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/HotelReservation/Models/YQHotel.h" />
+        <option value="$PROJECT_DIR$/HotelReservationTests/NSDateAdditionTest.m" />
+        <option value="$PROJECT_DIR$/HotelReservationTests/NSDateAdditionTest.h" />
         <option value="$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.h" />
+        <option value="$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.m" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1276" />
-    <option name="height" value="778" />
+    <option name="width" value="2560" />
+    <option name="height" value="1418" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -114,6 +192,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="HotelReservation" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -162,18 +244,70 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotelReservation" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotelReservation" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotelReservation" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/HotelReservation/Models" />
-    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="HotelReservation" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="HotelReservationTests" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HotelReservation">
+  <component name="RunManager" selected="OCUnit.All in NSDateAdditionTest">
     <configuration default="false" name="HotelReservation" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="HotelReservation" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservation" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="HotelReservation" RUN_TARGET_NAME="HotelReservation" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" type="OCUnitRunConfiguration" factoryName="OCUnit" temporary="true" SCHEME_NAME="-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_CLASS="NSDateAdditionTest" TEST_METHOD="test_should_know_if_weekday_according_to_dateStr">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" type="OCUnitRunConfiguration" factoryName="OCUnit" temporary="true" SCHEME_NAME="-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_CLASS="NSDateAdditionTest" TEST_METHOD="test_should_not_be_weekday_according_to_dateStr">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in NSDateAdditionTest" type="OCUnitRunConfiguration" factoryName="OCUnit" temporary="true" SCHEME_NAME="All in NSDateAdditionTest" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_CLASS="NSDateAdditionTest">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
       <method />
     </configuration>
     <configuration default="true" type="OCUnitRunConfiguration" factoryName="OCUnit" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE">
@@ -186,19 +320,45 @@
     </configuration>
     <configuration default="false" name="HotelReservationTests" type="OCUnitRunConfiguration" factoryName="OCUnit" SCHEME_NAME="HotelReservationTests" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE">
       <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.HotelReservation" />
-      <item index="1" class="java.lang.String" itemvalue="OCUnit.HotelReservationTests" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="OCUnit.HotelReservationTests" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HotelReservation" />
+      <item index="2" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" />
+      <item index="3" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
+      <item index="4" class="java.lang.String" itemvalue="OCUnit.All in NSDateAdditionTest" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.HotelReservation" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="OCUnit.All in NSDateAdditionTest" />
+        <item index="1" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
+        <item index="2" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
+        <item index="3" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
+        <item index="4" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" name="Default" comment="" />
@@ -208,25 +368,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1276" height="778" extended-state="6" />
+    <frame x="0" y="22" width="2560" height="1418" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5059856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16003153" sideWeight="0.6702619" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -292,6 +453,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="47" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -304,11 +493,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="378" selection-end="378" vertical-scroll-proportion="0.46353322">
+        <state line="13" column="6" selection-start="233" selection-end="388" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="24" selection-start="6792" selection-end="6805" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="5" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#102#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.44418052">
+          <folding>
+            <element signature="e#99#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
