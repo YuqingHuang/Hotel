@@ -7,24 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3686709A7053E7C0715AB949 /* YQHotel.m in Sources */ = {isa = PBXBuildFile; fileRef = 368670611C3875351A9BB6D1 /* YQHotel.m */; };
 		368671BEA068EE2187C76064 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 368670D157EB638369F2C4F0 /* InfoPlist.strings */; };
 		368671C7E2DE2DAC1ED13CB3 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 36867E57CA08FBDA3A78A360 /* Default@2x.png */; };
-		3686720A8E8606F6C67FAC85 /* HotelReservationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 368673B980F3F077147AD43F /* HotelReservationTests.m */; };
+		368672777C59E36DE9FEF814 /* YQHotelSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 3686782F6C96D632D7CA91AB /* YQHotelSelector.m */; };
 		368673B6520460A312DE34CA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 368674DC720D70F603CFF034 /* CoreGraphics.framework */; };
 		3686745BFE9884C24B648F78 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 368678353EACEA2B231174E8 /* Default-568h@2x.png */; };
 		368674FFC4785D05C0C0C9FC /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 3686759E1358D6150D266864 /* Default.png */; };
+		36867567036A35A282FBB9E4 /* YQRidgewoodHotel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867C05B4B3E14B51102261 /* YQRidgewoodHotel.m */; };
 		368675C1136C02293E309CD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867017FB5F847BC5A9E772 /* Foundation.framework */; };
 		368676216BD4BBA675B32B12 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3686708A7BB22E49D5B14A5A /* UIKit.framework */; };
 		368677ED3213860BC7F75268 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 368673F5BE1058B5B1F2F877 /* InfoPlist.strings */; };
 		368678BE241DF7B6E1BFD872 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867017FB5F847BC5A9E772 /* Foundation.framework */; };
-		36867A04B0B39AF58A24A084 /* YQHotel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867D38D794A574BF635114 /* YQHotel.m */; };
+		36867A04B0B39AF58A24A084 /* YQLakewoodHotel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867D38D794A574BF635114 /* YQLakewoodHotel.m */; };
 		36867A15021EC8BCCBC303BD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3686708A7BB22E49D5B14A5A /* UIKit.framework */; };
+		36867AC74FAD9A81D1CFD122 /* YQBridgewoodHotel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867C299E2BC8A00A3F7864 /* YQBridgewoodHotel.m */; };
 		36867C5CF61C00C604689A41 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3686781632F90BA828E4EB8C /* main.m */; };
 		36867D26438FA851BB249E4B /* YQAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867B177B57F3131BC88C20 /* YQAppDelegate.m */; };
+		36867D451B53658927D7D819 /* input.txt in Resources */ = {isa = PBXBuildFile; fileRef = 368673BEA6E8BF25779695CD /* input.txt */; };
+		36867DE07BF9AA6B61A7338D /* YQHotelSelectorTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 36867DEC6EAFD621F52287B2 /* YQHotelSelectorTest.m */; };
 		36867E2127D57D100FB6F908 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36867A3C3F15170ABC6D2899 /* SenTestingKit.framework */; };
 		4910077A174B1076003D4737 /* NSDate+NSDateAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 49100779174B1076003D4737 /* NSDate+NSDateAddition.m */; };
 		4910077D174B17BC003D4737 /* NSDateAdditionTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4910077C174B17BC003D4737 /* NSDateAdditionTest.m */; };
-		49E31169174A1FD40005979B /* YQHotelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E31168174A1FD40005979B /* YQHotelTest.m */; };
+		49E31169174A1FD40005979B /* YQLakewoodHotelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E31168174A1FD40005979B /* YQLakewoodHotelTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,32 +44,41 @@
 
 /* Begin PBXFileReference section */
 		36867017FB5F847BC5A9E772 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		368670611C3875351A9BB6D1 /* YQHotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQHotel.m; sourceTree = "<group>"; };
 		3686708A7BB22E49D5B14A5A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		368670BCF64A17C39D3DB72A /* YQAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YQAppDelegate.h; sourceTree = "<group>"; };
 		368673015861B0B730824B2E /* HotelReservation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HotelReservation.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3686734F4256FC8B0F1D5E15 /* YQHotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQHotel.h; path = HotelReservation/Models/YQHotel.h; sourceTree = SOURCE_ROOT; };
-		368673B980F3F077147AD43F /* HotelReservationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HotelReservationTests.m; sourceTree = "<group>"; };
+		3686734F4256FC8B0F1D5E15 /* YQLakewoodHotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQLakewoodHotel.h; path = HotelReservation/Models/YQLakewoodHotel.h; sourceTree = SOURCE_ROOT; };
+		368673BEA6E8BF25779695CD /* input.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
+		368674D19835809FAFE1C4AB /* YQHotelSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQHotelSelector.h; sourceTree = "<group>"; };
 		368674DC720D70F603CFF034 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3686759E1358D6150D266864 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		368677346D56DC33F34B3A5C /* YQHotelSelectorTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQHotelSelectorTest.h; sourceTree = "<group>"; };
+		3686781403431156B729B409 /* YQRidgewoodHotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQRidgewoodHotel.h; sourceTree = "<group>"; };
 		3686781632F90BA828E4EB8C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3686782F6C96D632D7CA91AB /* YQHotelSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQHotelSelector.m; sourceTree = "<group>"; };
 		368678353EACEA2B231174E8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		3686790000D1A905FD323E74 /* HotelReservationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "HotelReservationTests-Info.plist"; sourceTree = "<group>"; };
+		368679E8EC451E80E6F81772 /* YQBridgewoodHotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQBridgewoodHotel.h; sourceTree = "<group>"; };
 		36867A3C3F15170ABC6D2899 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		36867ABA6A50005F8E633553 /* HotelReservation-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HotelReservation-Prefix.pch"; sourceTree = "<group>"; };
 		36867B177B57F3131BC88C20 /* YQAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YQAppDelegate.m; sourceTree = "<group>"; };
-		36867BAF473CD9EEF3B31EFE /* HotelReservationTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HotelReservationTests.h; sourceTree = "<group>"; };
 		36867BCE782401C45CCE1A23 /* HotelReservation-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "HotelReservation-Info.plist"; sourceTree = "<group>"; };
+		36867C05B4B3E14B51102261 /* YQRidgewoodHotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQRidgewoodHotel.m; sourceTree = "<group>"; };
+		36867C299E2BC8A00A3F7864 /* YQBridgewoodHotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQBridgewoodHotel.m; sourceTree = "<group>"; };
+		36867C78F58009346287EA41 /* YQHotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YQHotel.h; sourceTree = "<group>"; };
 		36867C905374CE9AB61D65A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		36867D38D794A574BF635114 /* YQHotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQHotel.m; path = HotelReservation/Models/YQHotel.m; sourceTree = SOURCE_ROOT; };
+		36867D38D794A574BF635114 /* YQLakewoodHotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQLakewoodHotel.m; path = HotelReservation/Models/YQLakewoodHotel.m; sourceTree = SOURCE_ROOT; };
 		36867DB1B4A9524E3CA23B4C /* HotelReservationTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HotelReservationTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		36867DEC6EAFD621F52287B2 /* YQHotelSelectorTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YQHotelSelectorTest.m; sourceTree = "<group>"; };
 		36867E57CA08FBDA3A78A360 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		36867F10DC67D6BA578F66BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		49100778174B1076003D4737 /* NSDate+NSDateAddition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+NSDateAddition.h"; sourceTree = "<group>"; };
 		49100779174B1076003D4737 /* NSDate+NSDateAddition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+NSDateAddition.m"; sourceTree = "<group>"; };
 		4910077B174B17BC003D4737 /* NSDateAdditionTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSDateAdditionTest.h; path = Model/NSDateAdditionTest.h; sourceTree = "<group>"; };
 		4910077C174B17BC003D4737 /* NSDateAdditionTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSDateAdditionTest.m; path = Model/NSDateAdditionTest.m; sourceTree = "<group>"; };
-		49E31167174A1FD40005979B /* YQHotelTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQHotelTest.h; path = Model/YQHotelTest.h; sourceTree = "<group>"; };
-		49E31168174A1FD40005979B /* YQHotelTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQHotelTest.m; path = Model/YQHotelTest.m; sourceTree = "<group>"; };
+		49E31167174A1FD40005979B /* YQLakewoodHotelTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YQLakewoodHotelTest.h; path = Model/YQLakewoodHotelTest.h; sourceTree = "<group>"; };
+		49E31168174A1FD40005979B /* YQLakewoodHotelTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YQLakewoodHotelTest.m; path = Model/YQLakewoodHotelTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,8 +128,6 @@
 			children = (
 				49E31166174A1FA70005979B /* Model */,
 				368670FBCC361C8883F9A126 /* Supporting Files */,
-				36867BAF473CD9EEF3B31EFE /* HotelReservationTests.h */,
-				368673B980F3F077147AD43F /* HotelReservationTests.m */,
 			);
 			path = HotelReservationTests;
 			sourceTree = "<group>";
@@ -148,10 +160,18 @@
 		36867A9C97BA4536F85BD491 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				36867D38D794A574BF635114 /* YQHotel.m */,
-				3686734F4256FC8B0F1D5E15 /* YQHotel.h */,
+				36867D38D794A574BF635114 /* YQLakewoodHotel.m */,
+				3686734F4256FC8B0F1D5E15 /* YQLakewoodHotel.h */,
 				49100778174B1076003D4737 /* NSDate+NSDateAddition.h */,
 				49100779174B1076003D4737 /* NSDate+NSDateAddition.m */,
+				368670611C3875351A9BB6D1 /* YQHotel.m */,
+				36867C78F58009346287EA41 /* YQHotel.h */,
+				36867C299E2BC8A00A3F7864 /* YQBridgewoodHotel.m */,
+				368679E8EC451E80E6F81772 /* YQBridgewoodHotel.h */,
+				36867C05B4B3E14B51102261 /* YQRidgewoodHotel.m */,
+				3686781403431156B729B409 /* YQRidgewoodHotel.h */,
+				3686782F6C96D632D7CA91AB /* YQHotelSelector.m */,
+				368674D19835809FAFE1C4AB /* YQHotelSelector.h */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -163,6 +183,7 @@
 				368670BCF64A17C39D3DB72A /* YQAppDelegate.h */,
 				36867B177B57F3131BC88C20 /* YQAppDelegate.m */,
 				36867A9C97BA4536F85BD491 /* Models */,
+				368673BEA6E8BF25779695CD /* input.txt */,
 			);
 			path = HotelReservation;
 			sourceTree = "<group>";
@@ -180,10 +201,12 @@
 		49E31166174A1FA70005979B /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				49E31167174A1FD40005979B /* YQHotelTest.h */,
-				49E31168174A1FD40005979B /* YQHotelTest.m */,
+				49E31167174A1FD40005979B /* YQLakewoodHotelTest.h */,
+				49E31168174A1FD40005979B /* YQLakewoodHotelTest.m */,
 				4910077B174B17BC003D4737 /* NSDateAdditionTest.h */,
 				4910077C174B17BC003D4737 /* NSDateAdditionTest.m */,
+				36867DEC6EAFD621F52287B2 /* YQHotelSelectorTest.m */,
+				368677346D56DC33F34B3A5C /* YQHotelSelectorTest.h */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -259,6 +282,7 @@
 				368674FFC4785D05C0C0C9FC /* Default.png in Resources */,
 				368671C7E2DE2DAC1ED13CB3 /* Default@2x.png in Resources */,
 				3686745BFE9884C24B648F78 /* Default-568h@2x.png in Resources */,
+				36867D451B53658927D7D819 /* input.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,9 +317,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3686720A8E8606F6C67FAC85 /* HotelReservationTests.m in Sources */,
-				49E31169174A1FD40005979B /* YQHotelTest.m in Sources */,
+				49E31169174A1FD40005979B /* YQLakewoodHotelTest.m in Sources */,
 				4910077D174B17BC003D4737 /* NSDateAdditionTest.m in Sources */,
+				36867DE07BF9AA6B61A7338D /* YQHotelSelectorTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,8 +329,12 @@
 			files = (
 				36867C5CF61C00C604689A41 /* main.m in Sources */,
 				36867D26438FA851BB249E4B /* YQAppDelegate.m in Sources */,
-				36867A04B0B39AF58A24A084 /* YQHotel.m in Sources */,
+				36867A04B0B39AF58A24A084 /* YQLakewoodHotel.m in Sources */,
 				4910077A174B1076003D4737 /* NSDate+NSDateAddition.m in Sources */,
+				3686709A7053E7C0715AB949 /* YQHotel.m in Sources */,
+				36867AC74FAD9A81D1CFD122 /* YQBridgewoodHotel.m in Sources */,
+				36867567036A35A282FBB9E4 /* YQRidgewoodHotel.m in Sources */,
+				368672777C59E36DE9FEF814 /* YQHotelSelector.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

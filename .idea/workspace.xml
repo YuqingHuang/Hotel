@@ -6,17 +6,47 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/TCMyUsageSharedDataViewController_Pad.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369035399175" ignored="false" />
     <file path="$USER_HOME$/Documents/Telstra/ipad/TelstraMyAccountProduction/TelstraMyAccountProduction/iPad/TCMyUsageSharedDataViewController_Pad.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369035626356" ignored="false" />
-    <file path="/Dummy.txt" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369114931093" ignored="false" />
+    <file path="/Dummy.txt" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369280262389" ignored="false" />
     <file path="$USER_HOME$/Documents/Telstra/ipad/TelstraMyAccountProduction/TelstraMyAccountProduction/iPad/TCMyUsageViewController_Pad.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369040696126" ignored="false" />
-    <file path="/YQHotelTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369041453831" ignored="false" />
-    <file path="/NSDate+NSDateAddition.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369115956287" ignored="false" />
+    <file path="/YQHotelTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369269584399" ignored="false" />
+    <file path="/NSDate+NSDateAddition.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369272138209" ignored="false" />
     <file path="/NSDateAdditionTest.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369104405940" ignored="false" />
     <file path="/NSDate+NSDateAddition.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369106849380" ignored="false" />
-    <file path="/NSDateAdditionTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107108135" ignored="false" />
-    <file path="/fragment.mm" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107078979" ignored="false" />
-    <file path="/a.dummy" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107294399" ignored="false" />
+    <file path="/NSDateAdditionTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369271463080" ignored="false" />
+    <file path="/fragment.mm" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369291265367" ignored="false" />
+    <file path="/a.dummy" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369721902514" ignored="false" />
     <file path="$USER_HOME$/Documents/Telstra/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/analytics/TMA_Analytics.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369114914698" ignored="false" />
     <file path="/TMA_Analytics.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369107870942" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/ipad/TelstraMyAccountProduction/MyUsage/View/DataPack/TCMyUsageDataPackPropertiesView.xib" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369119351602" ignored="false" />
+    <file path="/YQHotel.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369296165082" ignored="false" />
+    <file path="/YQHotel.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369290115637" ignored="false" />
+    <file path="/fragment.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727604129" ignored="false" />
+    <file path="/YQLakewoodHotel.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369288827607" ignored="false" />
+    <file path="/YQHotelTest.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369127231143" ignored="false" />
+    <file path="/YQHotelSelector.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369232585034" ignored="false" />
+    <file path="/YQHotelSelector.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369290795787" ignored="false" />
+    <file path="/YQBridgewoodHotel.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369234161935" ignored="false" />
+    <file path="/YQBridgewoodHotel.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369234293269" ignored="false" />
+    <file path="/YQRidgewoodHotel.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369234509272" ignored="false" />
+    <file path="/YQRidgewoodHotel.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369290332063" ignored="false" />
+    <file path="/YQHotelSelectorTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369289397284" ignored="false" />
+    <file path="/YQAppDelegate.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369295280978" ignored="false" />
+    <file path="/input.txt" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369292610091" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/ServerInteraction/DataPackBO.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727426057" ignored="false" />
+    <file path="/DataPackBO.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727404347" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKitTests/Handlers/SharedServiceDataHandlerTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369728179480" ignored="false" />
+    <file path="/SharedServiceDataHandlerTest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727436583" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/ServerInteraction/ServiceCallQueue.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727364319" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/appstate/AbstractAppState.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369721828511" ignored="false" />
+    <file path="/AbstractAppState.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369721466919" ignored="false" />
+    <file path="/ServiceCallQueue.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727352401" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/ServerInteraction/DataPackBO.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369722236055" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/ServerInteraction/TCOperation.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727502791" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/TCMobileServicesNetworkKit/ServerInteraction/TCOperation.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369728149879" ignored="false" />
+    <file path="/TCOperation.h" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369728147040" ignored="false" />
+    <file path="/TCOperation.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369727501297" ignored="false" />
+    <file path="$USER_HOME$/Documents/Telstra/R4/TCMobileServicesNetworkKit/Libraries/ASIHTTPRequest/ASIHTTPRequest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369732355532" ignored="false" />
+    <file path="/ASIHTTPRequest.m" changelist="06c7d2de-3542-4e4a-be0d-aa0f3ea98c95" time="1369732354512" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,55 +66,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="YQHotelTest.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
+      <file leaf-file-name="YQHotel.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="6" selection-start="233" selection-end="388" vertical-scroll-proportion="0.0">
+            <state line="9" column="111" selection-start="133" selection-end="133" vertical-scroll-proportion="0.15590551">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YQHotel.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="4" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YQHotelTest.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NSDate+NSDateAddition.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NSDateAdditionTest.m" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.44418052">
-              <folding>
-                <element signature="e#99#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NSDateAdditionTest.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.h">
+      <file leaf-file-name="YQLakewoodHotel.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQLakewoodHotel.m">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -92,19 +84,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NSRange.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h">
+      <file leaf-file-name="YQHotelSelectorTest.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/YQHotelSelectorTest.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="2" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NSString.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h">
+      <file leaf-file-name="YQLakewoodHotelTest.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQLakewoodHotelTest.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="24" selection-start="6792" selection-end="6805" vertical-scroll-proportion="0.0">
+            <state line="15" column="53" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YQBridgewoodHotel.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQBridgewoodHotel.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="10" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YQHotelSelectorTest.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationTests/YQHotelSelectorTest.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="98" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,18 +123,34 @@
       <file leaf-file-name="NSDate+NSDateAddition.m" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="5" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#102#135#0" expanded="true" />
-              </folding>
+            <state line="23" column="27" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YQHotel.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
+      <file leaf-file-name="YQRidgewoodHotel.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQRidgewoodHotel.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YQHotel.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="12" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YQHotelSelector.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotelSelector.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="76" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,13 +166,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/HotelReservationTests/HotelReservationTests.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQRidgewoodHotel.h" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQRidgewoodHotel.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQLakewoodHotel.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQBridgewoodHotel.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQBridgewoodHotel.h" />
         <option value="$PROJECT_DIR$/HotelReservation/Models/YQHotel.h" />
-        <option value="$PROJECT_DIR$/HotelReservationTests/NSDateAdditionTest.m" />
-        <option value="$PROJECT_DIR$/HotelReservationTests/NSDateAdditionTest.h" />
-        <option value="$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m" />
-        <option value="$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.h" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQLakewoodHotel.h" />
         <option value="$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.m" />
+        <option value="$PROJECT_DIR$/HotelReservationTests/YQHotelSelectorTest.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQHotelSelector.h" />
+        <option value="$PROJECT_DIR$/HotelReservation/input.txt" />
+        <option value="$PROJECT_DIR$/HotelReservation/YQAppDelegate.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQHotelSelector.m" />
         <option value="$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.m" />
+        <option value="$PROJECT_DIR$/HotelReservation/Models/YQHotel.m" />
       </list>
     </option>
   </component>
@@ -192,10 +227,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="HotelReservation" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Products" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -262,54 +293,22 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotelReservation" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/HotelReservation/Models" />
     <property name="FullScreen" value="false" />
-    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="HotelReservationTests" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="HotelReservation" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
-  <component name="RunManager" selected="OCUnit.All in NSDateAdditionTest">
-    <configuration default="false" name="HotelReservation" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="HotelReservation" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservation" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="HotelReservation" RUN_TARGET_NAME="HotelReservation" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" type="OCUnitRunConfiguration" factoryName="OCUnit" temporary="true" SCHEME_NAME="-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_CLASS="NSDateAdditionTest" TEST_METHOD="test_should_know_if_weekday_according_to_dateStr">
-      <envs />
-      <RunnerSettings RunnerId="AppRunner" />
-      <ConfigurationWrapper RunnerId="AppRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" type="OCUnitRunConfiguration" factoryName="OCUnit" temporary="true" SCHEME_NAME="-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_CLASS="NSDateAdditionTest" TEST_METHOD="test_should_not_be_weekday_according_to_dateStr">
-      <envs />
-      <RunnerSettings RunnerId="AppRunner" />
-      <ConfigurationWrapper RunnerId="AppRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="All in NSDateAdditionTest" type="OCUnitRunConfiguration" factoryName="OCUnit" temporary="true" SCHEME_NAME="All in NSDateAdditionTest" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" TEST_CLASS="NSDateAdditionTest">
-      <envs />
-      <RunnerSettings RunnerId="AppRunner" />
-      <ConfigurationWrapper RunnerId="AppRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.HotelReservation">
     <configuration default="true" type="OCUnitRunConfiguration" factoryName="OCUnit" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservationTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE">
       <envs />
       <method />
@@ -324,22 +323,16 @@
       <ConfigurationWrapper RunnerId="AppRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="HotelReservation" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="HotelReservation" PROJECT_NAME="HotelReservation" TARGET_NAME="HotelReservation" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="HotelReservation" RUN_TARGET_NAME="HotelReservation" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="OCUnit.HotelReservationTests" />
       <item index="1" class="java.lang.String" itemvalue="Application.HotelReservation" />
-      <item index="2" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" />
-      <item index="3" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
-      <item index="4" class="java.lang.String" itemvalue="OCUnit.All in NSDateAdditionTest" />
     </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="OCUnit.All in NSDateAdditionTest" />
-        <item index="1" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
-        <item index="2" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
-        <item index="3" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_not_be_weekday_according_to_dateStr]" />
-        <item index="4" class="java.lang.String" itemvalue="OCUnit.-[NSDateAdditionTest test_should_know_if_weekday_according_to_dateStr]" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
@@ -369,22 +362,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1418" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16003153" sideWeight="0.6702619" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14781238" sideWeight="0.9992296" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41525424" sideWeight="0.9416634" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30123267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -448,122 +441,122 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/HotelReservationTests/YQHotelSelectorTest.m</url>
+          <line>44</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="10" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSBundle.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="47" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQHotelTest.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="233" selection-end="388" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="2" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="23" column="14" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="24" selection-start="6792" selection-end="6805" vertical-scroll-proportion="0.0">
+        <state line="137" column="33" selection-start="8517" selection-end="8517" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="69" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/YQAppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="11" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/YQAppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotelSelector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="34" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotelSelector.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="76" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQHotel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="111" selection-start="133" selection-end="133" vertical-scroll-proportion="0.15590551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQRidgewoodHotel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HotelReservation/Models/NSDate+NSDateAddition.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#102#135#0" expanded="true" />
-          </folding>
+        <state line="23" column="27" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/NSDateAdditionTest.m">
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/YQHotelSelectorTest.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.44418052">
-          <folding>
-            <element signature="e#99#129#0" expanded="true" />
-          </folding>
+        <state line="46" column="98" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQBridgewoodHotel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="10" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/Model/YQLakewoodHotelTest.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="53" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationTests/YQHotelSelectorTest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservation/Models/YQLakewoodHotel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>

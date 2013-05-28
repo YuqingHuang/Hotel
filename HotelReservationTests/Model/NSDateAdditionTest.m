@@ -13,11 +13,11 @@
 
 - (void)test_should_be_weekday_according_to_dateStr {
     NSDate *date = [[NSDate alloc] init];
-    STAssertTrue([date isWeekdayFor:@"16mar2009(mon)"], @"mon should be weekday");
+    STAssertEquals([date getDateTypeFor:@"16mar2009(mon)"], WEEKDAY, @"mon should be weekday");
 }
 
-- (void)test_should_not_be_weekday_according_to_dateStr {
+- (void)test_should_be_weekend_according_to_dateStr {
     NSDate *date = [[NSDate alloc] init];
-    STAssertFalse([date isWeekdayFor:@"22mar2009(sun)"], @"sun should not be weekday");
+    STAssertEquals([date getDateTypeFor:@"22mar2009(sun)"], WEEKEND, @"mon should be weekday");
 }
 @end

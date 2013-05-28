@@ -6,11 +6,10 @@
 //
 //
 
-#import <Foundation/Foundation.h>
 #import "NSDate+NSDateAddition.h"
 
 @implementation NSDate (NSDateAddition)
-
+                                                     //complete the init method
 //- (id)initWithDateStrOnlyCareIfWeekday:(NSString *)dateStr {
 //    self = [super init];
 //    if (self) {
@@ -19,12 +18,12 @@
 //    return self;
 //}
 
-- (BOOL)isWeekdayFor:(NSString *)dateStr {
+- (enum DateType)getDateTypeFor:(NSString *)dateStr {
     for (NSString *flag in @[@"sat", @"sun"]) {
         if([dateStr rangeOfString:flag].length > 0) {
-            return NO;
+            return WEEKEND;
         }
     }
-    return YES;
+    return WEEKDAY;
 }
 @end

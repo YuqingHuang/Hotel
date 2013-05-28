@@ -8,10 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
+enum DateType {
+    WEEKDAY,
+    WEEKEND
+};
+
 @interface NSDate (NSDateAddition)
 
 //- (id)initWithDateStrOnlyCareIfWeekday:(NSString *)dateStr;
 
-- (BOOL)isWeekdayFor:(NSString *)dateStr;
+- (enum DateType)getDateTypeFor:(NSString *)dateStr;
 
 @end
